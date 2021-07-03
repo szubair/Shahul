@@ -1,8 +1,9 @@
-UPVC/ALU Design Planning:
-
+UPVC/ALU Window Design Planning:
+---------------------------------
 1. Kitchen and Bedroom (Single doors)
 Need veritical sliding 
 type of glass - not visible from outside
+
 link: https://www.alibaba.com/product-detail/Upvc-single-hung-window-pvc-vertical_60166380283.html
 link: https://wbwindow.en.alibaba.com/product/62561647592-805454858/America_style_PVC_vertical_lifting_sash_windows_double_hung_windows.html
 link: https://www.rehau.com/uk-en/rehau-heritage-vertical-slider
@@ -14,11 +15,12 @@ YT: https://www.youtube.com/watch?v=9E6h7atW-7E (FOLD-UP)
 2. GroundFloor HALL
 Provide square partitions
 Need to decide the movement/sliding of glasses
-type of glass - not visible from outside
+type of glass - not visible from outside - Tinted with less reflection and high control.
 
 3. FF Balconies:
 Wooden frames + grill + glass + manual lock
 due to security reasons better go with wooden door as above.
+type of glass: plain / tinted
 
 ---
 Reminders:
@@ -31,3 +33,16 @@ Reminders:
 ---
 FINAL:
 1. All windows are inside - need to check with shahul on the GF HALL
+2. GF/FF Master bedroom windows - 3tracks with mosquito nets
+3. Other bedrooms windows - 2tracks with mosquito nets
+4. Kitchen - vertical sliding / Fold-up ??
+5.
+
+
+
+
+
+
+
+
+
