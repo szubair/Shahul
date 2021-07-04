@@ -13,6 +13,8 @@ GF:2BHK - bedroom:backside - plain glass (1 window)
 GF:2BHK - bedroom:rightside - plain glass (1 window)
 
 FF:3BHK - bedroom:Front facing windows (2w) - Day&Night
+FF:2BHk - bedroom:backside - Tinted 
+FF:2BHK - bedroom:rightside -plain glass
 
 Kitchen:
 GF:2BHK - all plain glasses
