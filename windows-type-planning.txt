@@ -1,0 +1,31 @@
+## Thinking about type of glasses to have privacy and reduce heat!
+
+UPVC:
+Front-Phasing doors can have upvc door.
+GF:2BHK - bedroom:leftside - 1w (plain glass)
+FF:3BHK - bedroom:leftside - 1w (plain glass)
+FF:2BHK - bedroom:leftside - 1w (plain glass)
+
+
+ALU:
+GF:2BHK - Hall:backside - Tinted Flim
+GF:2BHK - bedroom:backside - plain glass (1 window) 
+GF:2BHK - bedroom:rightside - plain glass (1 window)
+
+FF:3BHK - bedroom:Front facing windows (2w) - Day&Night
+
+Kitchen:
+GF:2BHK - all plain glasses
+FF:2BHK - all plain glasses
+FF:3BHK - all plain glasses
+---
+
+ 
+
+
+
+
+
+
+
+
