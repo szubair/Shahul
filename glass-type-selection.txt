@@ -3,9 +3,6 @@
 - Thickness of UPVS and ALU should be same
 - Whats the color - off-white?
 - Whats the thickness - 32mm?
--- Front facing - thicker as same as upvc
--- backside windows - thinner
-
 
 UPVC:
 Road-Phasing windows can have upvc frames.
