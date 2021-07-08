@@ -16,7 +16,7 @@ GF:2BHK - Hall:backside - Tinted Flim
 GF:2BHK - bedroom:backside - plain glass (1 window) 
 GF:2BHK - bedroom:rightside - plain glass (1 window)
 
-FF:3BHK - bedroom:Front facing windows (2w) - Day&Night
+FF:3BHK - bedroom:Front facing windows (2w) - Day&Night / Tinted
 FF:2BHk - bedroom:backside - Tinted 
 FF:2BHK - bedroom:rightside -plain glass
 
