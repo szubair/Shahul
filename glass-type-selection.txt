@@ -2,7 +2,7 @@
 - Thinking about type of glasses to have privacy and reduce heat!
 - Thickness of UPVS and ALU should be same
 - Whats the color - off-white?
-- Whats the thickness - ?
+- Whats the thickness - 32mm?
 -- Front facing - thicker as same as upvc
 -- backside windows - thinner
 
@@ -20,7 +20,7 @@ GF:2BHK - bedroom:backside - plain glass (1 window)
 GF:2BHK - bedroom:rightside - plain glass (1 window)
 
 FF:3BHK - bedroom:Front facing windows (2w) - Day&Night / Tinted
-FF:2BHk - bedroom:backside - Tinted 
+FF:2BHk - bedroom:backside - plain glass 
 FF:2BHK - bedroom:rightside -plain glass
 
 Kitchen:
