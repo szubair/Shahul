@@ -1,8 +1,11 @@
 ## 
 - Thinking about type of glasses to have privacy and reduce heat!
 - Thickness of UPVS and ALU should be same
-- Whats the color - ?
+- Whats the color - off-white?
 - Whats the thickness - ?
+-- Front facing - thicker as same as upvc
+-- backside windows - thinner
+
 
 UPVC:
 Road-Phasing windows can have upvc frames.
