@@ -1,2 +1,16 @@
 #planning for water, lighting etc
 
+Water connection/expenses:
+---------------------------
+We have 5k litre water storage in the ground.
+We will have 1k litre water-tank on the top for each flat.
+We could have one motor per flat which upload water into the water-tank
+Its good to have one water connection per flat so that these expenses will be calculated seperatly
+
+
+
+Lighting connection/expenses:
+-------------------------------
+Car parking and ramp lights
+staircase and corridor areas
+
