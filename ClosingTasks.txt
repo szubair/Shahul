@@ -16,13 +16,18 @@ Payments:
 1. previous work: 3L
 2. Alumininum: 2L
 3. Electrical Wiring: 5L
-4. Fenesta: 3.6L
+4. Fenesta: 3.6L 
+5. Flooring: 5L
 
 Payments Timings:
 ---
 1. Interlock tile purchase (1L) - Jan last week 
-2. Flooring Tile purchase (1L) - advance payment - Feb first week 
-3. Wirining purchase (2L) - advance payment - Feb first week
+2. Wirining purchase (2L) - advance payment - Jan last week
+3. Flooring Tile purchase (1L) - advance payment - Feb first week 
 4. Fenesta 1.6L - feb first week 
-
+5. Wiring 2nd payment (2L) - Feb last week
+6. Flooring Tile 2nd purchase (1L) - Feb last week
+7. Floor tile laying (2L) - Feb last
+8. Full payment tiling - March 1 Week 
+9. Full payment Wiring - March 1 Week
 
