@@ -13,3 +13,9 @@ Lighting connection/expenses:
 Car parking and ramp lights
 staircase and corridor areas
 
+iloans:
+------
+Sanoj: 10L 21/01/2024;
+Samiki: 6L pending 21/01/2024; 
+
+
