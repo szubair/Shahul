@@ -1,0 +1,14 @@
+Topics:
+
+Introduction to Programming 
+Python Introduction
+Data Types and Operators
+Data Structures in Python
+strings
+Lists
+Control Flow
+Functions
+Dict and Files
+Regular Expressions
+utilities
+Project - 
