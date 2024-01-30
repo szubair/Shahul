@@ -1,5 +1,4 @@
-Topics:
-
+# Topics:
 Introduction to Programming 
 Python Introduction
 Data Types and Operators
