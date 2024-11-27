@@ -1,25 +1,23 @@
 
-Things to discuss and finalize structural design of 2nd and 3rd floor
----
+## Things to discuss and finalize structural design of 2nd and 3rd floor
+- Plan of duplex house in the second floor
+- Finalize the location of staircase of the duplex house
 
-# Plan of duplex house in the second floor
-## Finalize the location of staircase
-# A few tuning in the second floor design:
-- minimize the floor area in the 3bhk (convert into a 2bhk or 2.5bhk) 
-- change in the kitchen work area design (half wall with opening, open kitchen)
+## A few tuning in the second floor design:
+- Minimize the floor area in the 3bhk - apartment:A (convert into a 2bhk or 2.5bhk) 
+- change in the kitchen work area design (both apartments, half wall with opening, open kitchen etc..)
 
-Discussions on the Third floor:
-- GYM area (this portion will be above apartment:B - around 1000 sqft)
+## Discussions on the Third floor:
+- GYM area (this portion will be above apartment:B - around 1000 sqft or less)
 - GYM area is a common place where all apartment folks could use.
-- the second floor of the duplex house (apartemt A)
 - Lift area
 
-Design/Services needed in the duplex house:
-2 bedrooms in the ground floor
-2 bedrooms in the first floor
-kitchen + Dinning in the ground floor
-Need terrace area for gardening
-Need access from 3rd floor to duplex apartment first floor (direct)
-Need seperation between GYM and duplex apartment
-simple, more ventilation and spacious room
+## Design/Services needed in the duplex house:
+- 2 bedrooms in the ground floor
+- 2 bedrooms in the first floor
+- kitchen + Dinning in the ground floor
+- Need terrace area for gardening
+- Need access from 3rd floor to duplex apartment first floor (direct)
+- Need seperation between GYM and duplex apartment
+- simple, more ventilation and spacious room
 
