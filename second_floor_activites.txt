@@ -2,9 +2,9 @@
 Things to discuss and finalize structural design of 2nd and 3rd floor
 ---
 
-Plan of duplex house in the second floor
-Finalize the location of staircase
-A few tuning in the second floor design:
+# Plan of duplex house in the second floor
+## Finalize the location of staircase
+# A few tuning in the second floor design:
 - minimize the floor area in the 3bhk (convert into a 2bhk or 2.5bhk) 
 - change in the kitchen work area design (half wall with opening, open kitchen)
 
