@@ -14,6 +14,9 @@ We could provide update in our website or above platforms like -> new joines! Ne
  c. assignments/tasks per topic
  d. duration and fees of each course (example: 2 months)
 
+4.Pricing 
+--
+
 4. Learning Management System: (Managed LMS)
 - Udemy
 - Teachmint
