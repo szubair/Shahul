@@ -14,22 +14,23 @@ We could provide update in our website or above platforms like -> new joines! Ne
  c. assignments/tasks per topic
  d. duration and fees of each course (example: 2 months)
 
-4.Pricing 
+4. Pricing 
+
 5. Naming ... 
 - example: kolorwithshinoob.com
 
-4. Learning Management System: (Managed LMS)
+6. Learning Management System: (Managed LMS)
 - Udemy
 - Teachmint
 
-5. Capacity - work/balance:
+7. Capacity - work/balance:
 - how many hours of teaching per day (4 hours)
 - how many students per day 
 -- How many students per batch (maintain quality)
 -- Suppose one hour class, we could have 4 batches max in a day
 -- rest of the day -> freelance work! 
 
-6. Time Planning:
+8. Time Planning:
 - Teaching - 9am -> 12noon (3)
 - Teaching - 4.30pm - 5.30pm (1)  
 - Freelance work - 7pm -> 9pm (2) 
@@ -38,7 +39,7 @@ We could provide update in our website or above platforms like -> new joines! Ne
 Notes - takeaways!
 - Focus more on freelance tasks than teaching 
 - Course duration is important; 
-- need to complete course in time to acquire new students 
+- need to complete courses in time to acquire new students 
 
 Questions:
 ---
