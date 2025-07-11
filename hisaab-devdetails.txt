@@ -1,1 +1,4 @@
-Hello
+Dev Discussions!
+---
+1. ADD Login Authentication using basic gmail account
+2. 
