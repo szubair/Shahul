@@ -9,4 +9,4 @@ Hisaab app - Dev Discussions!
 3. Manage People
 - add and delete people should be reflected in the trip (scope is inside the trip and NOT outside trip)
 
-**Lets us complete the detail this app for now at this stage.!
+**Lets us complete this app at this stage for now. Thanks!
