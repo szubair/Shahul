@@ -1,4 +1,11 @@
 Dev Discussions!
 ---
 1. ADD Login Authentication using basic gmail account
-2. 
+2. Trip Information:
+- Adding a trip with name, starting place, date, no.of people,no.of days (3 - 40)
+- Manage trip:
+1. able to add people in the trip
+2. button to delete, modify trip details. 
+3. Manage People
+- add and delete people should be reflected in the trip (scope is inside the trip or outside trip)
+Lets us complete the detail this app for now at this stage.! 
