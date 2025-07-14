@@ -13,4 +13,7 @@ Hisaab app - Dev Discussions!
 3. Manage People
 - add and delete people should be reflected in the trip (scope is inside the trip and NOT outside trip)
 
+4. Use supabase DB platform to store all info.
+- 10 trips
+
 **Lets us complete this app at this stage for now. Thanks!
