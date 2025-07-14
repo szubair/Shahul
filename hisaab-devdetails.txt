@@ -1,11 +1,15 @@
 Hisaab app - Dev Discussions!
 ---
-1. ADD Login Authentication using basic gmail account
-2. Trip Information:
-- Adding a trip with name, starting place, date, no.of people,no.of days (3 - 40)
-- Manage trip:
-1. able to add people in the trip
-2. button to delete, modify trip details. 
+1. ADD Login Authentication using basic gmail account (later stage)
+
+2. Jamath Info:
+- Add, Edit, Delete
+- Add trip/jamath name, starting place, starting date, no.of people, no.of days (3 - 40)
+- Manage trip (Edit):
+1. able to add new people and deposit in the trip
+2. button to modify and delete people from the trip.
+3. deposit has to be managed.
+
 3. Manage People
 - add and delete people should be reflected in the trip (scope is inside the trip and NOT outside trip)
 
