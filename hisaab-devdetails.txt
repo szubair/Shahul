@@ -2,7 +2,7 @@ Hisaab app - Dev Discussions!
 ---
 1. ADD Login Authentication using basic gmail account (later stage)
 
-2. Jamath Info:
+2. Jamath Info: (My Jamath Info)
 - Add, Edit, Delete
 - Add trip/jamath name, starting place, starting date, no.of people, no.of days (3 - 40)
 - Manage trip (Edit):
