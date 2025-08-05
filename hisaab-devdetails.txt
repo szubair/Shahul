@@ -5,17 +5,15 @@ Hisaab app - Dev Discussions!
 2. Jamath/Trip Info: (My Trip Info)
 - list last trips
 - Add new trip and Edit & Delete selected trip
-- Add trip -> Name, starting place, starting date, no.of people, no.of days (3 - 40)
-- Edit trip:
--- Manage or Edit trip with below requirements:
-1. able to add new people and his deposit into the trip details
-2. button to modify and delete people from the trip.
-3. deposit has to be managed.
+- Add trip -> Name, starting place, starting date, no.of days (3 - 40)
+3. Add people into Trip:
+- able to add new people and his deposit
 
-3. Manage People
-- add and delete people should be reflected in the trip (scope is inside the trip and NOT outside trip)
+4. Manage Trip:
+- button to modify and delete people from the trip.
+- and also handle deposit given by the person.
 
-4. Use supabase DB platform to store all info.
+5. Use supabase DB platform to store all info.
 - 10 trips
 
 **Lets us complete this app at this stage for now. Thanks!
