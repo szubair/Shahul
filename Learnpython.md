@@ -1,6 +1,6 @@
-## Course Name: Python programming for Beginners/Intermediate folks
+## Python programming for Beginners/Intermediate folks
 
-Topics:
+## Topics
 Introduction to Programming 
 Python Introduction
 Data Types and Operators
@@ -12,10 +12,8 @@ Functions
 Dict and Files
 Regular Expressions
 utilities
-Mini Project (handds-on exposure).
-
-Web Links:
-https://developers.google.com/edu/python
+Mini Project (hands-on exposure).
+[Web Reference](https://developers.google.com/edu/python)
 
 Udacity Free Courses:
 Intro to Backend By Steve Huffman: https://www.udacity.com/course/intro-to-backend--ud171
