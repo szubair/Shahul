@@ -2,7 +2,7 @@
 
 ### Python for Beginners/Intermediate folks
 | SL | Topics |
-| --| ---- |
+| :---| :--- |
 | 1 | Introduction to Programming |
 | 2 | Python Introduction |
 | 3 | Data Types and Operators |
@@ -18,7 +18,7 @@ Web Reference: https://developers.google.com/edu/python
 
 ### Udacity Free Courses:
 |SL| Course Names |
-| -- | ---- |
+| :--- | :--- |
 | 1 | [Intro to Backend By Steve Huffman](https://www.udacity.com/course/intro-to-backend--ud171) |
 | 2 | [Product Design](https://www.udacity.com/course/product-design--ud509) |
 | 3 | [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) |
