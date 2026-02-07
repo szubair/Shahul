@@ -1,18 +1,18 @@
 ## Python programming for Beginners/Intermediate folks
 
 ## Topics
-|Introduction to Programming |
-Python Introduction
-Data Types and Operators
-Data Structures in Python
-strings
-Lists
-Control Flow
-Functions
-Dict and Files
-Regular Expressions
-utilities
-Mini Project (hands-on exposure).
+|Introduction to Programming|
+|Python Introduction|
+|Data Types and Operators|
+|strings|
+|Lists|
+|Control Flow|
+|Dict and Files|
+|Data Structures in Python|
+|Functions|
+|Regular Expressions|
+|Mini Project (hands-on exposure)|
+
 [Web Reference](https://developers.google.com/edu/python)
 
 Udacity Free Courses:
