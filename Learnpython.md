@@ -1,4 +1,4 @@
-# Course Name: Python programming for Beginners/Intermediate folks
+## Course Name: Python programming for Beginners/Intermediate folks
 
 Topics:
 Introduction to Programming 
