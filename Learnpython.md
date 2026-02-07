@@ -1,4 +1,7 @@
-### Python programming for Beginners/Intermediate folks
+## Learn Programming
+
+### Python for Beginners/Intermediate folks
+
 | SL | Topics |
 | --| ---- |
 | 1 | Introduction to Programming |
@@ -14,7 +17,7 @@
 
 [Web Reference](https://developers.google.com/edu/python)
 
-Udacity Free Courses:
+#### Udacity Free Courses:
 Intro to Backend By Steve Huffman: https://www.udacity.com/course/intro-to-backend--ud171
 Product Design - https://www.udacity.com/course/product-design--ud509
 Full Stack Foundations: https://www.udacity.com/course/full-stack-foundations--ud088
