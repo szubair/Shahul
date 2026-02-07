@@ -1,17 +1,17 @@
 ## Python programming for Beginners/Intermediate folks
 
-## Topics
-|Introduction to Programming|
-|Python Introduction|
-|Data Types and Operators|
-|strings|
-|Lists|
-|Control Flow|
-|Dict and Files|
-|Data Structures in Python|
-|Functions|
-|Regular Expressions|
-|Mini Project (hands-on exposure)|
+| SL | Topics |
+| --| ---- |
+| 1 | Introduction to Programming |
+| 2 | Python Introduction |
+| 3 | Data Types and Operators |
+| 4 | Strings |
+| 5 | Lists |
+| 6 | Control Flow |
+| 7 | Dict and Files |
+| 8 | Data Structures in Python |
+| 9 | Functions |
+| 10 | **Mini Project (hands-on exposure)** |
 
 [Web Reference](https://developers.google.com/edu/python)
 
