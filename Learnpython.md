@@ -1,5 +1,4 @@
-## Python programming for Beginners/Intermediate folks
-
+### Python programming for Beginners/Intermediate folks
 | SL | Topics |
 | --| ---- |
 | 1 | Introduction to Programming |
