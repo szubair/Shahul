@@ -17,6 +17,7 @@ Mini Project (handds-on exposure).
 
 Planning:
 stick to topics
+https://developers.google.com/edu/python
 
 
 
