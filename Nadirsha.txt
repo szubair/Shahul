@@ -1,5 +1,4 @@
-Course Name: 
-Python programming for Beginners/Intermediate folks
+Course Name: Python programming for Beginners/Intermediate folks
 
 Topics:
 Introduction to Programming 
@@ -15,8 +14,7 @@ Regular Expressions
 utilities
 Mini Project (handds-on exposure).
 
-Planning:
-stick to topics
+Web Links:
 https://developers.google.com/edu/python
 
 Udacity Free Courses:
