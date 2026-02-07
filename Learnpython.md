@@ -1,7 +1,7 @@
 ## Python programming for Beginners/Intermediate folks
 
 ## Topics
-Introduction to Programming 
+|Introduction to Programming |
 Python Introduction
 Data Types and Operators
 Data Structures in Python
